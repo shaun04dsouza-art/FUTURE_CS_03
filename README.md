@@ -1,5 +1,4 @@
 # 🔐 Secure File Sharing System  
-**Future Interns – Cyber Security Task 3**  
 **Author:** Shaun D’Souza  
 
 ---
